@@ -1,7 +1,6 @@
 # **Online/Offline Budget Tracker**
 ![](public/icons/cool.png)
 
-![](public/icons/cool2.png)
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40paulinalo22-blue)
 
@@ -36,7 +35,7 @@ This super fun and functional app allows peeps to add expenses and deposits to t
 
 ## Link
 
-- [Deployed App in Heroku](#)
+- [Deployed App in Heroku](https://boiling-brushlands-46623.herokuapp.com/)
 
 ## Licenses
 
