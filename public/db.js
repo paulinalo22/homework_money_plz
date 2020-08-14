@@ -1,3 +1,4 @@
+const indexedDB = window.indexedDB || window.mozIndexedDB 
 let db;
 
 const request = indexedDB.open('budget', 1);
